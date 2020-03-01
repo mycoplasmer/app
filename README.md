@@ -12,7 +12,7 @@ Create a mockup of the app layout, UI, and a description of UX. In this step,
     * The UI elements may not be positioned at the exact positions
     * The color schemes and effects would be pretty basic
 
-    Shall be finished by 2020/03/08
+    Shall be finished by **2020/03/08**. Drafts using papers are welcome. Will use Adobe XD to finalize a sketch.
 
 2. Implement
 Based on the sketch and functions, develop a usable app using one of the following services:
@@ -20,7 +20,7 @@ Based on the sketch and functions, develop a usable app using one of the followi
     * [thunkable](https://x.thunkable.com/)
     * [appypie](https://www.appypie.com/)
 
-    A first verions hopefully before 03/15
+    A first verions hopefully before **2018/03/15**
 
     This service will cost us 20~60 USD per month.
 
