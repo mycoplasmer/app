@@ -20,7 +20,7 @@ Based on the sketch and functions, develop a usable app using one of the followi
     * [thunkable](https://x.thunkable.com/)
     * [appypie](https://www.appypie.com/)
 
-    A first verions hopefully before **2018/03/15**
+    A first verions hopefully before **2020/03/15**
 
     This service will cost us 20~60 USD per month.
 
