@@ -17,12 +17,12 @@ Create a mockup of the app layout, UI, and a description of UX. In this step,
 2. Implement
 Based on the sketch and functions, develop a usable app using one of the following services:
     * [creolabs](https://creolabs.com/)
-    * [thunkable](https://x.thunkable.com/)
-    * [appypie](https://www.appypie.com/)
+    * ~~[thunkable](https://x.thunkable.com/)~~
+    * ~~[appypie](https://www.appypie.com/)~~
 
     A first verions hopefully before **2020/03/15**
 
-    This service will cost us 20~60 USD per month.
+    This service will cost us ~~20~60~~  29 USD per month.
 
 3. Fine design
  
@@ -64,6 +64,10 @@ Techniquely, a team need to go through the following steps to build a native app
 9. Mobile App
 
 By using an app building service, steps 3-8 can be handled by the provider and we will be able to manage it before scaling up.
+
+# Budget
+
+TBD
 
 # Tools used for native iOS app development
 Will use XCode 12 beta. Use Swift UI
