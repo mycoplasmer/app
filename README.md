@@ -1,3 +1,10 @@
+# To-do list
+
+* Draw a user flow
+* Ask for a user flow for the pre-final version( see [this example](https://www.behance.net/gallery/60194177/Medec-Health-app-UI-Kit-Freebie?tracking_source=search%7Cui%20kit%20health))
+* 
+
+
 # Goal
 Build a (hopefully native) iOS application for testing and promotion.
 
